@@ -1,0 +1,1221 @@
+digraph {
+	graph [rankdir=LR]
+	1 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>start</B></TD><TD ALIGN='LEFT'>exact: 0</TD></TR></TABLE>>]
+	2 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>end</B></TD><TD ALIGN='LEFT'>exact: 99</TD></TR></TABLE>>]
+	3 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>…</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>…</FONT></TD><TD ALIGN='LEFT'>A, B, C, D</TD></TR></TABLE>>]
+	4 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>д</B></TD><TD ALIGN='LEFT'>exact: 6</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>да</FONT></TD><TD ALIGN='LEFT'>A, B, L, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	5 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>см</B></TD><TD ALIGN='LEFT'>exact: 7</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сами</FONT></TD><TD ALIGN='LEFT'>A, B, L</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сем</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	6 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>еднм прст н</B></TD><TD ALIGN='LEFT'>exact: 8</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единемъперстомъне</FONT></TD><TD ALIGN='LEFT'>L</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>едінѣмьперстомне</FONT></TD><TD ALIGN='LEFT'>A, B</TD></TR></TABLE>>]
+	7 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прмт</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>пріимете</FONT></TD><TD ALIGN='LEFT'>A</TD></TR></TABLE>>]
+	8 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>их</B></TD><TD ALIGN='LEFT'>exact: 10</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>их</FONT></TD><TD ALIGN='LEFT'>A, B</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ихъ</FONT></TD><TD ALIGN='LEFT'>L</TD></TR></TABLE>>]
+	9 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>nena víc než sami unes</B></TD><TD ALIGN='LEFT'>exact: 11</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>(nenakládatvícnežsamiunesou)</FONT></TD><TD ALIGN='LEFT'>A, B</TD></TR></TABLE>>]
+	10 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>мл</B></TD><TD ALIGN='LEFT'>exact: 15</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>(мол</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мл</FONT></TD><TD ALIGN='LEFT'>T</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мол</FONT></TD><TD ALIGN='LEFT'>A, B, L, Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мѡл</FONT></TD><TD ALIGN='LEFT'>I</TD></TR></TABLE>>]
+	11 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>͠в</B></TD><TD ALIGN='LEFT'>exact: 16</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>.͠в.</FONT></TD><TD ALIGN='LEFT'>A, B, L</TD></TR></TABLE>>]
+	12 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠и всдр</B></TD><TD ALIGN='LEFT'>exact: 17</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>Г͠ивседръжителю</FONT></TD><TD ALIGN='LEFT'>A, B, L</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ивседержителю</FONT></TD><TD ALIGN='LEFT'>АА</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ивседржителю</FONT></TD><TD ALIGN='LEFT'>X, Z, J, M, U, V, H, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ивседрьжителю</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	13 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>мл͠т</B></TD><TD ALIGN='LEFT'>exact: 18</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мл͠тва</FONT></TD><TD ALIGN='LEFT'>A, B, L, X, Z, U, Hil 167, G</TD></TR></TABLE>>]
+	14 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рздр</B></TD><TD ALIGN='LEFT'>exact: 20</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрешение</FONT></TD><TD ALIGN='LEFT'>J</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрешению</FONT></TD><TD ALIGN='LEFT'>W</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрѣшение</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрѣшениѥ</FONT></TD><TD ALIGN='LEFT'>V, Sin</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрѣшеніе</FONT></TD><TD ALIGN='LEFT'>C, U, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрѣши</FONT></TD><TD ALIGN='LEFT'>T</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрѣшити</FONT></TD><TD ALIGN='LEFT'>A, B, АА, X, Z, I, H, D, К</TD></TR></TABLE>>]
+	15 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>испв</B></TD><TD ALIGN='LEFT'>exact: 21</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповедника)</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповедникоу</FONT></TD><TD ALIGN='LEFT'>J</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдника</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, C, H, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдника)</FONT></TD><TD ALIGN='LEFT'>I</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдникоу</FONT></TD><TD ALIGN='LEFT'>U, V, Sin, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдникꙑ</FONT></TD><TD ALIGN='LEFT'>T</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдньіка</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 169</TD></TR></TABLE>>]
+	16 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>всмг</B></TD><TD ALIGN='LEFT'>exact: 25</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>всемогаи</FONT></TD><TD ALIGN='LEFT'>I, W, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>всемогеи</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>всемогьіи</FONT></TD><TD ALIGN='LEFT'>T, Sin, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>всемогїи</FONT></TD><TD ALIGN='LEFT'>B, C, M</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>всемогѫи</FONT></TD><TD ALIGN='LEFT'>АА</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>всемогꙑ</FONT></TD><TD ALIGN='LEFT'>H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>всемогꙑи</FONT></TD><TD ALIGN='LEFT'>A, L, X, Z, U, V, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вьсемогьіи</FONT></TD><TD ALIGN='LEFT'>J, Hil 167, Hil 169, F</TD></TR></TABLE>>]
+	17 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>првч</B></TD><TD ALIGN='LEFT'>exact: 26</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>превѣчнꙑи</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>прѣвѣчнꙑи</FONT></TD><TD ALIGN='LEFT'>A, B, L, M</TD></TR></TABLE>>]
+	18 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>бж</B></TD><TD ALIGN='LEFT'>exact: 27</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>боже</FONT></TD><TD ALIGN='LEFT'>A, B, C, M, H, D</TD></TR></TABLE>>]
+	19 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>испв с</B></TD><TD ALIGN='LEFT'>exact: 28</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдавшагосѧ</FONT></TD><TD ALIGN='LEFT'>G, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдавшоусе</FONT></TD><TD ALIGN='LEFT'>T</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдавшоусѧ</FONT></TD><TD ALIGN='LEFT'>A, B, L, X, Z, I, W, Y, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдавшюсѧ</FONT></TD><TD ALIGN='LEFT'>АА, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдающоусе</FONT></TD><TD ALIGN='LEFT'>J, M, U, V, Sin, Hil 378, Hil 167, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдающоусѧ</FONT></TD><TD ALIGN='LEFT'>C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣдшоусѧ</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	20 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>тб</B></TD><TD ALIGN='LEFT'>exact: 29</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>тебе</FONT></TD><TD ALIGN='LEFT'>G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>тебѣ</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 167, H, F, D, К</TD></TR></TABLE>>]
+	21 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рб</B></TD><TD ALIGN='LEFT'>exact: 30</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раба</FONT></TD><TD ALIGN='LEFT'>D, G, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>рабоу</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F</TD></TR></TABLE>>]
+	22 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>твм</B></TD><TD ALIGN='LEFT'>exact: 31</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоемоу</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, C, Hil 167, Hil 169, H, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥмоу</FONT></TD><TD ALIGN='LEFT'>T, J, M, U, V, Sin, Hil 378</TD></TR></TABLE>>]
+	23 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>имрк</B></TD><TD ALIGN='LEFT'>exact: 33</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>имрк</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Hil 378, Hil 167, Hil 169, F, D, G, К</TD></TR></TABLE>>]
+	24 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>тв</B></TD><TD ALIGN='LEFT'>exact: 35</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоеа</FONT></TD><TD ALIGN='LEFT'>W, Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоею</FONT></TD><TD ALIGN='LEFT'>C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоеѧ</FONT></TD><TD ALIGN='LEFT'>A, L, АА, X, Z, I, D, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥ</FONT></TD><TD ALIGN='LEFT'>T</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥю</FONT></TD><TD ALIGN='LEFT'>J, M, U, V, Sin, Hil 378, Hil 167, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥꙗ</FONT></TD><TD ALIGN='LEFT'>H, F, G</TD></TR></TABLE>>]
+	25 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рд</B></TD><TD ALIGN='LEFT'>exact: 37</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ради</FONT></TD><TD ALIGN='LEFT'>A, L, АА, X, Z, I, W, Y, T, К</TD></TR></TABLE>>]
+	26 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ч͠ст</B></TD><TD ALIGN='LEFT'>exact: 38</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ч͠стотꙑ</FONT></TD><TD ALIGN='LEFT'>A, X, I, D</TD></TR></TABLE>>]
+	27 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>грх</B></TD><TD ALIGN='LEFT'>exact: 39</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>грѣхи</FONT></TD><TD ALIGN='LEFT'>Hil 378, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>грѣхь</FONT></TD><TD ALIGN='LEFT'>J, Sin</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>грѣхꙑ</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, T, C, U, V, Hil 167, Hil 169, H</TD></TR></TABLE>>]
+	28 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>отпс</B></TD><TD ALIGN='LEFT'>exact: 40</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>отпоусти</FONT></TD><TD ALIGN='LEFT'>C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>отпоустиши</FONT></TD><TD ALIGN='LEFT'>B</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>отъпоустиши</FONT></TD><TD ALIGN='LEFT'>A, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѿпоусти</FONT></TD><TD ALIGN='LEFT'>X, Z, I, W, Y, Hil 378, G, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѿпоустиши</FONT></TD><TD ALIGN='LEFT'>L, АА, T, J, U, V, Sin, Hil 167, Hil 169, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѿпоустишїи</FONT></TD><TD ALIGN='LEFT'>N, P, R</TD></TR></TABLE>>]
+	29 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>д</B></TD><TD ALIGN='LEFT'>exact: 44</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>да</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, Hil 169, H, O, S, F, D, G, К</TD></TR></TABLE>>]
+	30 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>блшм</B></TD><TD ALIGN='LEFT'>exact: 46</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>болшемъ</FONT></TD><TD ALIGN='LEFT'>I</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>болшемь</FONT></TD><TD ALIGN='LEFT'>W</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>болшиими</FONT></TD><TD ALIGN='LEFT'>К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>болшими</FONT></TD><TD ALIGN='LEFT'>T</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>болшимъ</FONT></TD><TD ALIGN='LEFT'>L, АА</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>болшми</FONT></TD><TD ALIGN='LEFT'>A, B, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>большими</FONT></TD><TD ALIGN='LEFT'>F</TD></TR></TABLE>>]
+	31 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нчш</B></TD><TD ALIGN='LEFT'>exact: 50</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наоучиши</FONT></TD><TD ALIGN='LEFT'>A, B, L, X, Z, I, W, Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наоучушу</FONT></TD><TD ALIGN='LEFT'>АА</TD></TR></TABLE>>]
+	32 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>к</B></TD><TD ALIGN='LEFT'>exact: 52</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>к</FONT></TD><TD ALIGN='LEFT'>B, L, АА, X, Z</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>къ</FONT></TD><TD ALIGN='LEFT'>A</TD></TR></TABLE>>]
+	33 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рзм</B></TD><TD ALIGN='LEFT'>exact: 53</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>разоум</FONT></TD><TD ALIGN='LEFT'>I, Hil 167, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>разоумоу</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>разоумъ</FONT></TD><TD ALIGN='LEFT'>C, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>разоумь</FONT></TD><TD ALIGN='LEFT'>W, T, J, U, V, Sin, Hil 378, Hil 169, N, P, R</TD></TR></TABLE>>]
+	34 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>твм</B></TD><TD ALIGN='LEFT'>exact: 54</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоемоу</FONT></TD><TD ALIGN='LEFT'>B, L, АА, X, Z</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥмоу</FONT></TD><TD ALIGN='LEFT'>A</TD></TR></TABLE>>]
+	35 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 55</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, D</TD></TR></TABLE>>]
+	36 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нств</B></TD><TD ALIGN='LEFT'>exact: 56</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>настави</FONT></TD><TD ALIGN='LEFT'>C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наставиши</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, T, J, U, V, Sin, Hil 167, Hil 169, H, O, S, F, D, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наставишіи</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наставишїи</FONT></TD><TD ALIGN='LEFT'>N, P, R</TD></TR></TABLE>>]
+	37 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>от</B></TD><TD ALIGN='LEFT'>exact: 58</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>от</FONT></TD><TD ALIGN='LEFT'>B, C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>отъ</FONT></TD><TD ALIGN='LEFT'>A, I, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѿ</FONT></TD><TD ALIGN='LEFT'>L, АА, X, Z, W, Y, T, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, O, S, F, G, К</TD></TR></TABLE>>]
+	38 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>мк</B></TD><TD ALIGN='LEFT'>exact: 59</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>моукьі</FONT></TD><TD ALIGN='LEFT'>M, Hil 378, O, S</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>моукꙑ</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, W, Y, T, C, J, U, V, Sin, Hil 167, Hil 169, H, F, D, G, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мѫкꙑ</FONT></TD><TD ALIGN='LEFT'>I</TD></TR></TABLE>>]
+	39 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>н</B></TD><TD ALIGN='LEFT'>exact: 61</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>на</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, D, G, К</TD></TR></TABLE>>]
+	40 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>пмщ</B></TD><TD ALIGN='LEFT'>exact: 62</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>помощ</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>помощь</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, G, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>помощїю</FONT></TD><TD ALIGN='LEFT'>S</TD></TR></TABLE>>]
+	41 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>к</B></TD><TD ALIGN='LEFT'>exact: 64</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>к</FONT></TD><TD ALIGN='LEFT'>B, C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ко</FONT></TD><TD ALIGN='LEFT'>Z, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>къ</FONT></TD><TD ALIGN='LEFT'>A, L, АА, H, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>кь</FONT></TD><TD ALIGN='LEFT'>X, T, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, G</TD></TR></TABLE>>]
+	42 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>тв</B></TD><TD ALIGN='LEFT'>exact: 65</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоеи</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, C, J, V, Hil 167, F, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоеѧ</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥи</FONT></TD><TD ALIGN='LEFT'>T, M, U, Sin, Hil 378, Hil 169, H, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥю</FONT></TD><TD ALIGN='LEFT'>O</TD></TR></TABLE>>]
+	43 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>млст</B></TD><TD ALIGN='LEFT'>exact: 66</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>милости</FONT></TD><TD ALIGN='LEFT'>A, B, L, I, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>млсти!</FONT></TD><TD ALIGN='LEFT'>Hil 169</TD></TR></TABLE>>]
+	44 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прт</B></TD><TD ALIGN='LEFT'>exact: 67</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>преити</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, I</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>приити</FONT></TD><TD ALIGN='LEFT'>Z, W, Y, C, J, Sin</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>прити</FONT></TD><TD ALIGN='LEFT'>T, Hil 378, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>пріити</FONT></TD><TD ALIGN='LEFT'>X, U, Hil 167, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>пріти</FONT></TD><TD ALIGN='LEFT'>V</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>прїити</FONT></TD><TD ALIGN='LEFT'>M</TD></TR></TABLE>>]
+	45 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠м</B></TD><TD ALIGN='LEFT'>exact: 71</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠мь</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, I, T, C, J, U, Sin, Hil 378, Hil 167, Hil 169, G, К</TD></TR></TABLE>>]
+	46 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ншм</B></TD><TD ALIGN='LEFT'>exact: 72</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нашимъ</FONT></TD><TD ALIGN='LEFT'>B, L, I, C, F, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нашимь</FONT></TD><TD ALIGN='LEFT'>A, АА, W, Y, T, J, U, Sin, Hil 378, Hil 167, Hil 169, H, D, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нашімь</FONT></TD><TD ALIGN='LEFT'>V</TD></TR></TABLE>>]
+	47 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и͠с</B></TD><TD ALIGN='LEFT'>exact: 73</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и͠с</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, W, Y, T, C, J, Sin, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>і͠сь</FONT></TD><TD ALIGN='LEFT'>I, H</TD></TR></TABLE>>]
+	48 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>х͠м</B></TD><TD ALIGN='LEFT'>exact: 74</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>х͠мь</FONT></TD><TD ALIGN='LEFT'>A, АА, I, H</TD></TR></TABLE>>]
+	49 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с͠нм</B></TD><TD ALIGN='LEFT'>exact: 75</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>с͠нмь</FONT></TD><TD ALIGN='LEFT'>I, H, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>с͠номъ</FONT></TD><TD ALIGN='LEFT'>L, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>с͠номь</FONT></TD><TD ALIGN='LEFT'>A, B, АА, W, Y, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	50 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>твм</B></TD><TD ALIGN='LEFT'>exact: 76</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоим</FONT></TD><TD ALIGN='LEFT'>L</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоимъ</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоимь</FONT></TD><TD ALIGN='LEFT'>A, B, АА, I, W, Y, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, G</TD></TR></TABLE>>]
+	51 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с нмж</B></TD><TD ALIGN='LEFT'>exact: 78</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>снимже</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, C, J, Sin, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>снимъже</FONT></TD><TD ALIGN='LEFT'>К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>снимьже</FONT></TD><TD ALIGN='LEFT'>T, H, F, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сьнимже</FONT></TD><TD ALIGN='LEFT'>U, V, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сьнимьже</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сьнїимже</FONT></TD><TD ALIGN='LEFT'>M</TD></TR></TABLE>>]
+	52 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>жвш</B></TD><TD ALIGN='LEFT'>exact: 79</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>живеши</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F</TD></TR></TABLE>>]
+	53 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 80</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H</TD></TR></TABLE>>]
+	54 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ц͠рс</B></TD><TD ALIGN='LEFT'>exact: 81</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ц͠рьствоуеши</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, C, J, U, V, Sin, Hil 167, Hil 169, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ц͠рьствоуѥши</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR></TABLE>>]
+	55 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>бж</B></TD><TD ALIGN='LEFT'>exact: 82</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>боже</FONT></TD><TD ALIGN='LEFT'>A, B, АА, C, J, Sin, H, F</TD></TR></TABLE>>]
+	56 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с</B></TD><TD ALIGN='LEFT'>exact: 83</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>со-</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>съ</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА</TD></TR></TABLE>>]
+	57 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>еднн</B></TD><TD ALIGN='LEFT'>exact: 85</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единени</FONT></TD><TD ALIGN='LEFT'>C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единение</FONT></TD><TD ALIGN='LEFT'>F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единениемъ</FONT></TD><TD ALIGN='LEFT'>A, B, АА</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единениемь</FONT></TD><TD ALIGN='LEFT'>Z</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единении</FONT></TD><TD ALIGN='LEFT'>W</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единеніемь</FONT></TD><TD ALIGN='LEFT'>X</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единѥніе</FONT></TD><TD ALIGN='LEFT'>V, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>едіненіемъ</FONT></TD><TD ALIGN='LEFT'>L</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥдинение</FONT></TD><TD ALIGN='LEFT'>J, Sin</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥдинении</FONT></TD><TD ALIGN='LEFT'>I, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥдинениѥмь!</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥдинѥни</FONT></TD><TD ALIGN='LEFT'>T</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥдинѥніѥ</FONT></TD><TD ALIGN='LEFT'>U</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥдїнѥнїѥ</FONT></TD><TD ALIGN='LEFT'>M</TD></TR></TABLE>>]
+	58 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с͠тг</B></TD><TD ALIGN='LEFT'>exact: 86</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>с͠тго</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, C, F</TD></TR></TABLE>>]
+	59 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>д͠х</B></TD><TD ALIGN='LEFT'>exact: 87</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>д͠ха</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F</TD></TR></TABLE>>]
+	60 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>н͠н</B></TD><TD ALIGN='LEFT'>exact: 89</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>н͠нѣ</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, Y, C, J</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>н͠нѧ</FONT></TD><TD ALIGN='LEFT'>W</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>н͠нꙗ</FONT></TD><TD ALIGN='LEFT'>T, U, V, Sin, Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	61 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 90</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, W, Y, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F</TD></TR></TABLE>>]
+	62 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прсн</B></TD><TD ALIGN='LEFT'>exact: 91</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>присно</FONT></TD><TD ALIGN='LEFT'>A, B, L, I, C, J, U, V, Sin</TD></TR></TABLE>>]
+	63 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 92</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>A, B, L, АА, X, Z, I, Y, C, J, M, U, V, Hil 378, Hil 167, Hil 169, H, F</TD></TR></TABLE>>]
+	64 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>в</B></TD><TD ALIGN='LEFT'>exact: 93</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>в</FONT></TD><TD ALIGN='LEFT'>A, B, L, W</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>во</FONT></TD><TD ALIGN='LEFT'>АА, X, Z</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>въ</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вь</FONT></TD><TD ALIGN='LEFT'>U</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣ</FONT></TD><TD ALIGN='LEFT'>I</TD></TR></TABLE>>]
+	65 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>в</B></TD><TD ALIGN='LEFT'>exact: 95</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>в</FONT></TD><TD ALIGN='LEFT'>C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>в.</FONT></TD><TD ALIGN='LEFT'>A</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>во</FONT></TD><TD ALIGN='LEFT'>К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>въ</FONT></TD><TD ALIGN='LEFT'>G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вь</FONT></TD><TD ALIGN='LEFT'>J, V, Hil 378, Hil 167, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣ</FONT></TD><TD ALIGN='LEFT'>U, H</TD></TR></TABLE>>]
+	66 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>двгн</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>двигнете</FONT></TD><TD ALIGN='LEFT'>B, L</TD></TR></TABLE>>]
+	67 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>х͠ом</B></TD><TD ALIGN='LEFT'>exact: 74</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>х͠омъ</FONT></TD><TD ALIGN='LEFT'>B, L, C, J, U, Sin, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>х͠омь</FONT></TD><TD ALIGN='LEFT'>W, Y, Hil 378, Hil 167</TD></TR></TABLE>>]
+	68 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>вк</B></TD><TD ALIGN='LEFT'>exact: 96</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>векꙑ</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣк</FONT></TD><TD ALIGN='LEFT'>I, H, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣко</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣкьі</FONT></TD><TD ALIGN='LEFT'>G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣкꙑ</FONT></TD><TD ALIGN='LEFT'>B, L, АА, X, Z, W, C, J, V, Hil 378, Hil 169, К</TD></TR></TABLE>>]
+	69 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>вкм</B></TD><TD ALIGN='LEFT'>exact: 97</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣкомъ</FONT></TD><TD ALIGN='LEFT'>B, L, C</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣкомь</FONT></TD><TD ALIGN='LEFT'>X, Z, J, V, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣкѡм</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR></TABLE>>]
+	70 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>амн</B></TD><TD ALIGN='LEFT'>exact: 98</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>аминъ</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>аминь</FONT></TD><TD ALIGN='LEFT'>B, L, X, C, Hil 169, К</TD></TR></TABLE>>]
+	71 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рзрш</B></TD><TD ALIGN='LEFT'>exact: 19</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>разрѣшити</FONT></TD><TD ALIGN='LEFT'>L</TD></TR></TABLE>>]
+	72 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠ж</B></TD><TD ALIGN='LEFT'>exact: 27</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠же</FONT></TD><TD ALIGN='LEFT'>L, Z</TD></TR></TABLE>>]
+	73 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>чстт</B></TD><TD ALIGN='LEFT'>exact: 38</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>чистотьі</FONT></TD><TD ALIGN='LEFT'>G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>чистотꙑ</FONT></TD><TD ALIGN='LEFT'>L, АА, Z, W, К</TD></TR></TABLE>>]
+	74 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠ж</B></TD><TD ALIGN='LEFT'>exact: 82</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠же</FONT></TD><TD ALIGN='LEFT'>L, X, Z</TD></TR></TABLE>>]
+	75 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>испв свщн испв с прв</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исповѣданиесвѧщенникомь…исповѣдаюсѧпервое</FONT></TD><TD ALIGN='LEFT'>АА</TD></TR></TABLE>>]
+	76 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>бг</B></TD><TD ALIGN='LEFT'>exact: 6</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>богоу</FONT></TD><TD ALIGN='LEFT'>АА</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>богъ</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	77 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>м͠лт</B></TD><TD ALIGN='LEFT'>exact: 18</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>м͠лтва</FONT></TD><TD ALIGN='LEFT'>АА, V, Hil 378, Hil 169</TD></TR></TABLE>>]
+	78 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>мл а</B></TD><TD ALIGN='LEFT'>exact: 22</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мола</FONT></TD><TD ALIGN='LEFT'>АА</TD></TR></TABLE>>]
+	79 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>вчн</B></TD><TD ALIGN='LEFT'>exact: 26</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вечньі</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣчньі</FONT></TD><TD ALIGN='LEFT'>N, P, O</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣчньіи</FONT></TD><TD ALIGN='LEFT'>J, Sin, F, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣчніи</FONT></TD><TD ALIGN='LEFT'>Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣчнꙑ</FONT></TD><TD ALIGN='LEFT'>H, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣчнꙑи</FONT></TD><TD ALIGN='LEFT'>АА, I, W, Y, T, C, U, V, Hil 167, К</TD></TR></TABLE>>]
+	80 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠е</B></TD><TD ALIGN='LEFT'>exact: 27</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠е</FONT></TD><TD ALIGN='LEFT'>АА, X, I, W, Y, T, J, U, V, Sin, Hil 378, Hil 167, Hil 169, F</TD></TR></TABLE>>]
+	81 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>м͠лт</B></TD><TD ALIGN='LEFT'>exact: 66</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>м͠лти</FONT></TD><TD ALIGN='LEFT'>АА, X, Z, W</TD></TR></TABLE>>]
+	82 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>пр͠с</B></TD><TD ALIGN='LEFT'>exact: 91</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>пр͠сно</FONT></TD><TD ALIGN='LEFT'>АА, Z, W, Y, Hil 378</TD></TR></TABLE>>]
+	83 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠и</B></TD><TD ALIGN='LEFT'>exact: 5</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠и</FONT></TD><TD ALIGN='LEFT'>X, Z, I, W</TD></TR></TABLE>>]
+	84 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠е</B></TD><TD ALIGN='LEFT'>exact: 6</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠е</FONT></TD><TD ALIGN='LEFT'>X, Z, I, H</TD></TR></TABLE>>]
+	85 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нш</B></TD><TD ALIGN='LEFT'>exact: 8</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нашь</FONT></TD><TD ALIGN='LEFT'>X, Z, I, W, H</TD></TR></TABLE>>]
+	86 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>едн свд</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единꙑисвѣдꙑи</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR></TABLE>>]
+	87 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ем</B></TD><TD ALIGN='LEFT'>exact: 41</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>емоу</FONT></TD><TD ALIGN='LEFT'>X, I, W, Y, D, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>емоꙑ</FONT></TD><TD ALIGN='LEFT'>Z</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥмоу</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	88 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>блш</B></TD><TD ALIGN='LEFT'>exact: 45</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>болши</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR></TABLE>>]
+	89 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ег</B></TD><TD ALIGN='LEFT'>exact: 51</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>его</FONT></TD><TD ALIGN='LEFT'>X, Z, I, W</TD></TR></TABLE>>]
+	90 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ег</B></TD><TD ALIGN='LEFT'>exact: 57</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>его</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR></TABLE>>]
+	91 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>свбд с</B></TD><TD ALIGN='LEFT'>exact: 60</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>свободитисѧ</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR></TABLE>>]
+	92 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 63</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>X, Z, D, G, К</TD></TR></TABLE>>]
+	93 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>пмщ</B></TD><TD ALIGN='LEFT'>exact: 69</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>помощи</FONT></TD><TD ALIGN='LEFT'>D, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>помощь</FONT></TD><TD ALIGN='LEFT'>O</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>помощію</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR></TABLE>>]
+	94 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и б͠лг еднр с͠н</B></TD><TD ALIGN='LEFT'>exact: 70</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>иб͠лгодатіюединороднагос͠на</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR></TABLE>>]
+	95 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠а н͠шг и͠с</B></TD><TD ALIGN='LEFT'>exact: 72</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ан͠шегои͠са</FONT></TD><TD ALIGN='LEFT'>X, Z</TD></TR></TABLE>>]
+	96 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>х͠с</B></TD><TD ALIGN='LEFT'>exact: 73</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>х͠са</FONT></TD><TD ALIGN='LEFT'>X</TD></TR></TABLE>>]
+	97 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>п͠рс</B></TD><TD ALIGN='LEFT'>exact: 91</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>п͠рсно</FONT></TD><TD ALIGN='LEFT'>X, Hil 167, Hil 169</TD></TR></TABLE>>]
+	98 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>твг</B></TD><TD ALIGN='LEFT'>exact: 71</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоего</FONT></TD><TD ALIGN='LEFT'>Z</TD></TR></TABLE>>]
+	99 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>͠хс</B></TD><TD ALIGN='LEFT'>exact: 73</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>͠хса</FONT></TD><TD ALIGN='LEFT'>Z</TD></TR></TABLE>>]
+	100 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>влдк</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>владꙑко</FONT></TD><TD ALIGN='LEFT'>I</TD></TR></TABLE>>]
+	101 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>иж</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>иже</FONT></TD><TD ALIGN='LEFT'>I, Y, G</TD></TR></TABLE>>]
+	102 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>клч ц͠рс твг птр…</B></TD><TD ALIGN='LEFT'>exact: 10</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ключац͠рствіѧтвоегопетроу…</FONT></TD><TD ALIGN='LEFT'>I</TD></TR></TABLE>>]
+	103 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠и</B></TD><TD ALIGN='LEFT'>exact: 11</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠и</FONT></TD><TD ALIGN='LEFT'>I, T, C, V, Sin, К</TD></TR></TABLE>>]
+	104 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠ж</B></TD><TD ALIGN='LEFT'>exact: 12</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠же</FONT></TD><TD ALIGN='LEFT'>I</TD></TR></TABLE>>]
+	105 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>всдр</B></TD><TD ALIGN='LEFT'>exact: 14</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вседржителю</FONT></TD><TD ALIGN='LEFT'>I, T, Sin</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вседръжителю</FONT></TD><TD ALIGN='LEFT'>C, К</TD></TR></TABLE>>]
+	106 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>млтв</B></TD><TD ALIGN='LEFT'>exact: 16</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>(молитва</FONT></TD><TD ALIGN='LEFT'>I</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>молитва</FONT></TD><TD ALIGN='LEFT'>W, Sin</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>молитвꙑ</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	107 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>влдк</B></TD><TD ALIGN='LEFT'>exact: 22</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>владꙑко</FONT></TD><TD ALIGN='LEFT'>I, W</TD></TR></TABLE>>]
+	108 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>см</B></TD><TD ALIGN='LEFT'>exact: 32</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>семоу</FONT></TD><TD ALIGN='LEFT'>I, W, Y</TD></TR></TABLE>>]
+	109 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>грх</B></TD><TD ALIGN='LEFT'>exact: 42</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>грѣх</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>грѣхи</FONT></TD><TD ALIGN='LEFT'>M, O, S</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>грѣхьі</FONT></TD><TD ALIGN='LEFT'>G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>грѣхꙑ</FONT></TD><TD ALIGN='LEFT'>I, W, Y, К</TD></TR></TABLE>>]
+	110 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>о</B></TD><TD ALIGN='LEFT'>exact: 45</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѡ</FONT></TD><TD ALIGN='LEFT'>I, W</TD></TR></TABLE>>]
+	111 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нств</B></TD><TD ALIGN='LEFT'>exact: 47</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наставиши</FONT></TD><TD ALIGN='LEFT'>I, W, Y</TD></TR></TABLE>>]
+	112 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ег</B></TD><TD ALIGN='LEFT'>exact: 48</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>его</FONT></TD><TD ALIGN='LEFT'>I</TD></TR></TABLE>>]
+	113 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 49</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>I, W, Y, T, C, J, U, V, Sin, Hil 378, Hil 167, N, P, R, H, O, S, F, G</TD></TR></TABLE>>]
+	114 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>в</B></TD><TD ALIGN='LEFT'>exact: 52</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>в</FONT></TD><TD ALIGN='LEFT'>I, C, J, Sin, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>въ</FONT></TD><TD ALIGN='LEFT'>G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вь</FONT></TD><TD ALIGN='LEFT'>W, T, U, V, Hil 378, Hil 167, Hil 169, N, P, R</TD></TR></TABLE>>]
+	115 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>н</B></TD><TD ALIGN='LEFT'>exact: 68</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>на</FONT></TD><TD ALIGN='LEFT'>O</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>не</FONT></TD><TD ALIGN='LEFT'>I, W, Y</TD></TR></TABLE>>]
+	116 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прзр н пмл</B></TD><TD ALIGN='LEFT'>exact: 69</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>презринопомилоуи</FONT></TD><TD ALIGN='LEFT'>I, W, Y</TD></TR></TABLE>>]
+	117 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>еднр</B></TD><TD ALIGN='LEFT'>exact: 77</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>единороднꙑмъ</FONT></TD><TD ALIGN='LEFT'>I, W, Y</TD></TR></TABLE>>]
+	118 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>в</B></TD><TD ALIGN='LEFT'>exact: 84</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>в</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>въ</FONT></TD><TD ALIGN='LEFT'>I, W, C, J, Sin, H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вь</FONT></TD><TD ALIGN='LEFT'>T, M, U, V, Hil 167, Hil 169, F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вь!</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR></TABLE>>]
+	119 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>млср</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>милосердꙑи</FONT></TD><TD ALIGN='LEFT'>Y, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>милосрдꙑи</FONT></TD><TD ALIGN='LEFT'>W</TD></TR></TABLE>>]
+	120 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 2</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>W, Y, D</TD></TR></TABLE>>]
+	121 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>бл͠г</B></TD><TD ALIGN='LEFT'>exact: 3</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>бл͠гꙑи</FONT></TD><TD ALIGN='LEFT'>W, Y</TD></TR></TABLE>>]
+	122 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠и чл͠к</B></TD><TD ALIGN='LEFT'>exact: 4</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ичл͠колюбче</FONT></TD><TD ALIGN='LEFT'>W</TD></TR></TABLE>>]
+	123 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>исх</B></TD><TD ALIGN='LEFT'>exact: 6</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исхе</FONT></TD><TD ALIGN='LEFT'>W</TD></TR></TABLE>>]
+	124 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠ж</B></TD><TD ALIGN='LEFT'>exact: 7</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠же</FONT></TD><TD ALIGN='LEFT'>W, Y</TD></TR></TABLE>>]
+	125 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с͠н</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>с͠не</FONT></TD><TD ALIGN='LEFT'>W</TD></TR></TABLE>>]
+	126 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 10</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>W, H</TD></TR></TABLE>>]
+	127 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>слв modl nad tím kdo má přis k přij</B></TD><TD ALIGN='LEFT'>exact: 11</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>словоmodlnadtímkdomápřistoupitkpřijímání</FONT></TD><TD ALIGN='LEFT'>W</TD></TR></TABLE>>]
+	128 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠дм</B></TD><TD ALIGN='LEFT'>exact: 70</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠демь</FONT></TD><TD ALIGN='LEFT'>W, Y, V</TD></TR></TABLE>>]
+	129 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 4</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>Y, G</TD></TR></TABLE>>]
+	130 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ч͠лк</B></TD><TD ALIGN='LEFT'>exact: 5</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ч͠лколюбче</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	131 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>члвч естс м͠лт е͠ тмжд</B></TD><TD ALIGN='LEFT'>exact: 10</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>чловечьскагоестествам͠лтвае͠томоужде</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	132 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>тж</B></TD><TD ALIGN='LEFT'>exact: 11</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>(тже</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>таж</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	133 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прщл вл͠к вссл</B></TD><TD ALIGN='LEFT'>exact: 16</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>пращалнꙑѧ)вл͠ковсесилне</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	134 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠лг</B></TD><TD ALIGN='LEFT'>exact: 36</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠лгости</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	135 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и лчшм</B></TD><TD ALIGN='LEFT'>exact: 45</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>илоучшимь</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	136 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>бл͠г</B></TD><TD ALIGN='LEFT'>exact: 66</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>бл͠гсти</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	137 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>сднн</B></TD><TD ALIGN='LEFT'>exact: 85</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>соединение</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	138 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>вк</B></TD><TD ALIGN='LEFT'>exact: 94</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѣкꙑ</FONT></TD><TD ALIGN='LEFT'>Y, U</TD></TR></TABLE>>]
+	139 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>x</B></TD><TD ALIGN='LEFT'>exact: 97</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>!</FONT></TD><TD ALIGN='LEFT'>Y</TD></TR></TABLE>>]
+	140 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>pouč peni…н бт б рч мдр е сб апсл</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>poučenípenitentovi…небитборечемоудроуесебѣапсль</FONT></TD><TD ALIGN='LEFT'>T</TD></TR></TABLE>>]
+	141 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>егд</B></TD><TD ALIGN='LEFT'>exact: 22</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>егда</FONT></TD><TD ALIGN='LEFT'>C, J, V, Sin, Hil 378, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥгда</FONT></TD><TD ALIGN='LEFT'>T, U, Hil 167</TD></TR></TABLE>>]
+	142 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>скнч</B></TD><TD ALIGN='LEFT'>exact: 23</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>скончает</FONT></TD><TD ALIGN='LEFT'>T, C, U, Hil 378, Hil 167, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>скончаеть</FONT></TD><TD ALIGN='LEFT'>V</TD></TR></TABLE>>]
+	143 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>зпвд</B></TD><TD ALIGN='LEFT'>exact: 24</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>заповѣди</FONT></TD><TD ALIGN='LEFT'>C, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>заповѣдь</FONT></TD><TD ALIGN='LEFT'>T, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>заповѣдіи</FONT></TD><TD ALIGN='LEFT'>J</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>заповѣдꙑ</FONT></TD><TD ALIGN='LEFT'>U, V</TD></TR></TABLE>>]
+	144 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>млст</B></TD><TD ALIGN='LEFT'>exact: 34</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>милости</FONT></TD><TD ALIGN='LEFT'>T</TD></TR></TABLE>>]
+	145 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нчш</B></TD><TD ALIGN='LEFT'>exact: 47</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наоучиши</FONT></TD><TD ALIGN='LEFT'>T, H, O, S, F, G</TD></TR></TABLE>>]
+	146 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 48</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>T</TD></TR></TABLE>>]
+	147 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 57</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, O, S, G, К</TD></TR></TABLE>>]
+	148 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ж</B></TD><TD ALIGN='LEFT'>exact: 60</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>же</FONT></TD><TD ALIGN='LEFT'>T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H</TD></TR></TABLE>>]
+	149 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>мст</B></TD><TD ALIGN='LEFT'>exact: 66</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>масти</FONT></TD><TD ALIGN='LEFT'>T, C, J, M, U, Sin, Hil 378, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мастіи</FONT></TD><TD ALIGN='LEFT'>V</TD></TR></TABLE>>]
+	150 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>хм</B></TD><TD ALIGN='LEFT'>exact: 74</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>хмь</FONT></TD><TD ALIGN='LEFT'>T</TD></TR></TABLE>>]
+	151 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠е</B></TD><TD ALIGN='LEFT'>exact: 82</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠е</FONT></TD><TD ALIGN='LEFT'>T, M, U, V, Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	152 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ст͠г</B></TD><TD ALIGN='LEFT'>exact: 88</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ст͠го</FONT></TD><TD ALIGN='LEFT'>T, U, V, Sin, Hil 378</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ст͠гѡ</FONT></TD><TD ALIGN='LEFT'>M</TD></TR></TABLE>>]
+	153 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>т</B></TD><TD ALIGN='LEFT'>exact: 2</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>то</FONT></TD><TD ALIGN='LEFT'>C</TD></TR></TABLE>>]
+	154 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ѧдт рб epit</B></TD><TD ALIGN='LEFT'>exact: 7</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ꙗдѧтрꙑбоу(epitimie)</FONT></TD><TD ALIGN='LEFT'>C</TD></TR></TABLE>>]
+	155 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>мл</B></TD><TD ALIGN='LEFT'>exact: 8</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мол</FONT></TD><TD ALIGN='LEFT'>C, D</TD></TR></TABLE>>]
+	156 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>дрг</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дроуга:</FONT></TD><TD ALIGN='LEFT'>C</TD></TR></TABLE>>]
+	157 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>… испв кмн м͠л</B></TD><TD ALIGN='LEFT'>exact: 15</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>…исповѣданиѥкаменном͠л</FONT></TD><TD ALIGN='LEFT'>C</TD></TR></TABLE>>]
+	158 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>н</B></TD><TD ALIGN='LEFT'>exact: 19</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>на</FONT></TD><TD ALIGN='LEFT'>C, J, U, V, Sin, Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	159 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>дтл</B></TD><TD ALIGN='LEFT'>exact: 36</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дѣтелию</FONT></TD><TD ALIGN='LEFT'>C, J, V, Sin, Hil 378, N, P, R</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дѣтелію</FONT></TD><TD ALIGN='LEFT'>U, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дѣтелїю</FONT></TD><TD ALIGN='LEFT'>M</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дѣтѣлию</FONT></TD><TD ALIGN='LEFT'>Hil 167</TD></TR></TABLE>>]
+	160 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>очст</B></TD><TD ALIGN='LEFT'>exact: 37</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>очисти</FONT></TD><TD ALIGN='LEFT'>C, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѡчисти</FONT></TD><TD ALIGN='LEFT'>J, U, V, Sin, Hil 378, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѡчїсти</FONT></TD><TD ALIGN='LEFT'>M</TD></TR></TABLE>>]
+	161 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 38</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и</FONT></TD><TD ALIGN='LEFT'>C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, O, S</TD></TR></TABLE>>]
+	162 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рб…</B></TD><TD ALIGN='LEFT'>exact: 4</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>рибоу…</FONT></TD><TD ALIGN='LEFT'>J, M, U</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>рибꙑ…</FONT></TD><TD ALIGN='LEFT'>Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>рꙑбоу…</FONT></TD><TD ALIGN='LEFT'>V</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>рꙑбꙑ…</FONT></TD><TD ALIGN='LEFT'>Sin</TD></TR></TABLE>>]
+	163 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>г͠ь прмл</B></TD><TD ALIGN='LEFT'>exact: 5</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ьпремилостивꙑи</FONT></TD><TD ALIGN='LEFT'>J, M</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ьпрѣмилостивіи</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ьпрѣмилостивꙑи</FONT></TD><TD ALIGN='LEFT'>V, Sin, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>г͠ьпрѣмлстивꙑи</FONT></TD><TD ALIGN='LEFT'>U</TD></TR></TABLE>>]
+	164 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ущдр</B></TD><TD ALIGN='LEFT'>exact: 7</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>оущедрит</FONT></TD><TD ALIGN='LEFT'>U, V, Hil 169</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>оущедрить</FONT></TD><TD ALIGN='LEFT'>J, M, Sin</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>оущедріт</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167</TD></TR></TABLE>>]
+	165 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>т…</B></TD><TD ALIGN='LEFT'>exact: 8</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>те…</FONT></TD><TD ALIGN='LEFT'>J, M, U, V, Sin</TD></TR></TABLE>>]
+	166 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>кнчт</B></TD><TD ALIGN='LEFT'>exact: 23</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>кончаеть</FONT></TD><TD ALIGN='LEFT'>J</TD></TR></TABLE>>]
+	167 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>твг</B></TD><TD ALIGN='LEFT'>exact: 88</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоего</FONT></TD><TD ALIGN='LEFT'>J</TD></TR></TABLE>>]
+	168 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>отпщ</B></TD><TD ALIGN='LEFT'>exact: 43</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѿпоущаѥши</FONT></TD><TD ALIGN='LEFT'>M</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѿпоущь</FONT></TD><TD ALIGN='LEFT'>O, S</TD></TR></TABLE>>]
+	169 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>гⷭм</B></TD><TD ALIGN='LEFT'>exact: 68</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>гⷭмь</FONT></TD><TD ALIGN='LEFT'>M, F</TD></TR></TABLE>>]
+	170 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ншⷨ иⷭ хмⷭь с͠нⷨ твⷨ</B></TD><TD ALIGN='LEFT'>exact: 69</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нашиⷨїуⷭхмⷭьс͠ноⷨтвоиⷨ</FONT></TD><TD ALIGN='LEFT'>M</TD></TR></TABLE>>]
+	171 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>црⷭт</B></TD><TD ALIGN='LEFT'>exact: 81</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>црⷭтвоуѥши</FONT></TD><TD ALIGN='LEFT'>M</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>црⷭтвуеши</FONT></TD><TD ALIGN='LEFT'>F</TD></TR></TABLE>>]
+	172 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>н͠н</B></TD><TD ALIGN='LEFT'>exact: 93</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>н͠нꙗ</FONT></TD><TD ALIGN='LEFT'>M</TD></TR></TABLE>>]
+	173 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>д</B></TD><TD ALIGN='LEFT'>exact: 2</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>да</FONT></TD><TD ALIGN='LEFT'>U, V, Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	174 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ѧдт</B></TD><TD ALIGN='LEFT'>exact: 3</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ꙗдет</FONT></TD><TD ALIGN='LEFT'>U</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ꙗдеть</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ꙗдоуть</FONT></TD><TD ALIGN='LEFT'>V</TD></TR></TABLE>>]
+	175 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и͠у</B></TD><TD ALIGN='LEFT'>exact: 73</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>и͠у</FONT></TD><TD ALIGN='LEFT'>U</TD></TR></TABLE>>]
+	176 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>т</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>то</FONT></TD><TD ALIGN='LEFT'>V, Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	177 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>исх</B></TD><TD ALIGN='LEFT'>exact: 12</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исухе</FONT></TD><TD ALIGN='LEFT'>V</TD></TR></TABLE>>]
+	178 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠е</B></TD><TD ALIGN='LEFT'>exact: 13</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠е</FONT></TD><TD ALIGN='LEFT'>V, К</TD></TR></TABLE>>]
+	179 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нш с͠н…</B></TD><TD ALIGN='LEFT'>exact: 14</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нашьс͠не…</FONT></TD><TD ALIGN='LEFT'>V</TD></TR></TABLE>>]
+	180 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ис</B></TD><TD ALIGN='LEFT'>exact: 73</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ис</FONT></TD><TD ALIGN='LEFT'>F, G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ису</FONT></TD><TD ALIGN='LEFT'>К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ісу</FONT></TD><TD ALIGN='LEFT'>V</TD></TR></TABLE>>]
+	181 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>хсм</B></TD><TD ALIGN='LEFT'>exact: 74</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>хсмь</FONT></TD><TD ALIGN='LEFT'>V, G</TD></TR></TABLE>>]
+	182 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>сврш зпдд x</B></TD><TD ALIGN='LEFT'>exact: 23</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сьврьшитьзаподиди!</FONT></TD><TD ALIGN='LEFT'>Sin</TD></TR></TABLE>>]
+	183 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>имⷬе</B></TD><TD ALIGN='LEFT'>exact: 32</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>имⷬе</FONT></TD><TD ALIGN='LEFT'>Sin</TD></TR></TABLE>>]
+	184 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рб…</B></TD><TD ALIGN='LEFT'>exact: 4</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>рибоу…</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167</TD></TR></TABLE>>]
+	185 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>т</B></TD><TD ALIGN='LEFT'>exact: 8</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>те</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	186 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>з</B></TD><TD ALIGN='LEFT'>exact: 24</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>за</FONT></TD><TD ALIGN='LEFT'>Hil 378</TD></TR></TABLE>>]
+	187 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и</B></TD><TD ALIGN='LEFT'>exact: 73</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>иу</FONT></TD><TD ALIGN='LEFT'>Hil 378, Hil 167, Hil 169</TD></TR></TABLE>>]
+	188 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>едн…</B></TD><TD ALIGN='LEFT'>exact: 85</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>един…</FONT></TD><TD ALIGN='LEFT'>Hil 167</TD></TR></TABLE>>]
+	189 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с͠тг</B></TD><TD ALIGN='LEFT'>exact: 88</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>с͠тго</FONT></TD><TD ALIGN='LEFT'>Hil 167, Hil 169, H</TD></TR></TABLE>>]
+	190 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>…</B></TD><TD ALIGN='LEFT'>exact: 96</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>…</FONT></TD><TD ALIGN='LEFT'>Hil 167</TD></TR></TABLE>>]
+	191 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ѧст</B></TD><TD ALIGN='LEFT'>exact: 3</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ꙗсть</FONT></TD><TD ALIGN='LEFT'>Hil 169</TD></TR></TABLE>>]
+	192 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>х͠см</B></TD><TD ALIGN='LEFT'>exact: 74</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>х͠смъ</FONT></TD><TD ALIGN='LEFT'>D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>х͠смь</FONT></TD><TD ALIGN='LEFT'>Hil 169</TD></TR></TABLE>>]
+	193 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>м</B></TD><TD ALIGN='LEFT'>exact: 83</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мои</FONT></TD><TD ALIGN='LEFT'>Hil 169</TD></TR></TABLE>>]
+	194 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>…г͠и</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>…г͠и</FONT></TD><TD ALIGN='LEFT'>H</TD></TR></TABLE>>]
+	195 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>птрв</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>петрови</FONT></TD><TD ALIGN='LEFT'>H</TD></TR></TABLE>>]
+	196 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>блдн слзм ѧк б͠ь млст и щдр</B></TD><TD ALIGN='LEFT'>exact: 11</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>блудницислезами…ꙗкоб͠ьмилостивьищедр</FONT></TD><TD ALIGN='LEFT'>H</TD></TR></TABLE>>]
+	197 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>дл</B></TD><TD ALIGN='LEFT'>exact: 36</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>делѧ</FONT></TD><TD ALIGN='LEFT'>H, D</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дѣле</FONT></TD><TD ALIGN='LEFT'>O, S</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дѣлѧ</FONT></TD><TD ALIGN='LEFT'>F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>дѣлꙗ</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	198 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>чст</B></TD><TD ALIGN='LEFT'>exact: 37</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>чьсти</FONT></TD><TD ALIGN='LEFT'>H</TD></TR></TABLE>>]
+	199 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с рзмм</B></TD><TD ALIGN='LEFT'>exact: 50</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сразоумомь</FONT></TD><TD ALIGN='LEFT'>H</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>съразоумомь</FONT></TD><TD ALIGN='LEFT'>F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сьразоумомь</FONT></TD><TD ALIGN='LEFT'>O, S</TD></TR></TABLE>>]
+	200 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠м</B></TD><TD ALIGN='LEFT'>exact: 68</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠мь</FONT></TD><TD ALIGN='LEFT'>H</TD></TR></TABLE>>]
+	201 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>н x</B></TD><TD ALIGN='LEFT'>exact: 91</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нꙑ(!)</FONT></TD><TD ALIGN='LEFT'>H</TD></TR></TABLE>>]
+	202 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прсн</B></TD><TD ALIGN='LEFT'>exact: 93</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>присно</FONT></TD><TD ALIGN='LEFT'>H, F</TD></TR></TABLE>>]
+	203 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>и твⷨ</B></TD><TD ALIGN='LEFT'>exact: 27</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>итвоеⷨ</FONT></TD><TD ALIGN='LEFT'>O, S</TD></TR></TABLE>>]
+	204 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>чст спдб</B></TD><TD ALIGN='LEFT'>exact: 39</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>чьстисподоби</FONT></TD><TD ALIGN='LEFT'>O, S</TD></TR></TABLE>>]
+	205 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>вщшм</B></TD><TD ALIGN='LEFT'>exact: 45</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вещьшими</FONT></TD><TD ALIGN='LEFT'>O, S</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>вѧщьшимь</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	206 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>млⷭт</B></TD><TD ALIGN='LEFT'>exact: 66</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>млⷭти</FONT></TD><TD ALIGN='LEFT'>F</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>млⷭтию</FONT></TD><TD ALIGN='LEFT'>O</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>млⷭть</FONT></TD><TD ALIGN='LEFT'>S</TD></TR></TABLE>>]
+	207 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прдт</B></TD><TD ALIGN='LEFT'>exact: 70</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>прїидеть</FONT></TD><TD ALIGN='LEFT'>O</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>прїидѣть</FONT></TD><TD ALIGN='LEFT'>S</TD></TR></TABLE>>]
+	208 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>тв</B></TD><TD ALIGN='LEFT'>exact: 60</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоею</FONT></TD><TD ALIGN='LEFT'>S</TD></TR></TABLE>>]
+	209 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>чⷭт</B></TD><TD ALIGN='LEFT'>exact: 37</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>чⷭти</FONT></TD><TD ALIGN='LEFT'>F</TD></TR></TABLE>>]
+	210 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>првт</B></TD><TD ALIGN='LEFT'>exact: 67</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>првти</FONT></TD><TD ALIGN='LEFT'>F</TD></TR></TABLE>>]
+	211 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>хⷭм</B></TD><TD ALIGN='LEFT'>exact: 74</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>хⷭмь</FONT></TD><TD ALIGN='LEFT'>F</TD></TR></TABLE>>]
+	212 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нн</B></TD><TD ALIGN='LEFT'>exact: 91</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>нꙑнꙗ</FONT></TD><TD ALIGN='LEFT'>F</TD></TR></TABLE>>]
+	213 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>спдб т жзн вчн с блгс в вк амн</B></TD><TD ALIGN='LEFT'>exact: 3</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сподобиттѧжизнивечнꙑѧсꙑблагословеньввѣкꙑаминь</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	214 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нд грбм рзрш</B></TD><TD ALIGN='LEFT'>exact: 9</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>надгробъмразрешити</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	215 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>мл</B></TD><TD ALIGN='LEFT'>exact: 12</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>мол</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	216 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>бж</B></TD><TD ALIGN='LEFT'>exact: 22</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>боже</FONT></TD><TD ALIGN='LEFT'>D, G</TD></TR></TABLE>>]
+	217 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>твг</B></TD><TD ALIGN='LEFT'>exact: 31</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоего</FONT></TD><TD ALIGN='LEFT'>D, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>твоѥго</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	218 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>отпщ</B></TD><TD ALIGN='LEFT'>exact: 39</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>отпоущю</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	219 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>вдщ</B></TD><TD ALIGN='LEFT'>exact: 45</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>видѧщии</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	220 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нчш</B></TD><TD ALIGN='LEFT'>exact: 54</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>наоучиши</FONT></TD><TD ALIGN='LEFT'>D, К</TD></TR></TABLE>>]
+	221 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>у</B></TD><TD ALIGN='LEFT'>exact: 57</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>оу</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	222 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прм гспд</B></TD><TD ALIGN='LEFT'>exact: 70</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>примигосподомь</FONT></TD><TD ALIGN='LEFT'>D</TD></TR></TABLE>>]
+	223 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>блгс</B></TD><TD ALIGN='LEFT'>exact: 79</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>благословенъ</FONT></TD><TD ALIGN='LEFT'>D, К</TD></TR></TABLE>>]
+	224 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>ес</B></TD><TD ALIGN='LEFT'>exact: 80</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>еси</FONT></TD><TD ALIGN='LEFT'>D, К</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>ѥси</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	225 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>щдр</B></TD><TD ALIGN='LEFT'>exact: 5</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>щедрꙑи</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	226 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>нздр рд б͠лг</B></TD><TD ALIGN='LEFT'>exact: 10</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>неиздреченнꙑꙗрадиб͠лгости</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	227 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>исхд ис пст</B></TD><TD ALIGN='LEFT'>exact: 19</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>исходꙗщииспоста</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	228 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>сг</B></TD><TD ALIGN='LEFT'>exact: 32</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сего</FONT></TD><TD ALIGN='LEFT'>G, К</TD></TR></TABLE>>]
+	229 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>прт</B></TD><TD ALIGN='LEFT'>exact: 70</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>прити</FONT></TD><TD ALIGN='LEFT'>G</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>пріити</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	230 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>снм</B></TD><TD ALIGN='LEFT'>exact: 75</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>сномь</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	231 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>б͠лс</B></TD><TD ALIGN='LEFT'>exact: 79</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>б͠лснъ</FONT></TD><TD ALIGN='LEFT'>G</TD></TR></TABLE>>]
+	232 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>conf of sins п</B></TD><TD ALIGN='LEFT'>exact: 1</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>confessionofsins,по</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	233 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>гл͠е ир млтв рздр</B></TD><TD ALIGN='LEFT'>exact: 8</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>гл͠етьиерѣимолитвꙑраздрѣшалнꙑе</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	234 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>рздр</B></TD><TD ALIGN='LEFT'>exact: 17</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>раздрѣшалнꙑе</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	235 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>иж</B></TD><TD ALIGN='LEFT'>exact: 22</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>иже</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	236 [label=<<TABLE CELLSPACING="0"><TR><TD ALIGN='LEFT'><B>с͠тн</B></TD><TD ALIGN='LEFT'>exact: 66</TD></TR><TR><TD ALIGN='LEFT'><FONT FACE='Bukyvede'>с͠тꙑни</FONT></TD><TD ALIGN='LEFT'>К</TD></TR></TABLE>>]
+	1 -> 3 [label="A, B, C, D"]
+	1 -> 4 [label=L]
+	1 -> 75 [label="АА"]
+	1 -> 83 [label="X, Z"]
+	1 -> 100 [label=I]
+	1 -> 119 [label="W, Y, G"]
+	1 -> 140 [label=T]
+	1 -> 162 [label="J, M, Sin"]
+	1 -> 173 [label=U]
+	1 -> 176 [label="V, Hil 378, Hil 167, Hil 169"]
+	1 -> 79 [label="N, P, O"]
+	1 -> 159 [label=R]
+	1 -> 194 [label=H]
+	1 -> 203 [label=S]
+	1 -> 16 [label=F]
+	1 -> 232 [label="К"]
+	3 -> 4 [label="A, B"]
+	3 -> 153 [label=C]
+	3 -> 120 [label=D]
+	4 -> 5 [label="A, B, L"]
+	4 -> 154 [label=C]
+	4 -> 164 [label="J, M, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	5 -> 6 [label="A, B, L"]
+	5 -> 233 [label="К"]
+	6 -> 7 [label=A]
+	6 -> 66 [label="B, L"]
+	7 -> 8 [label=A]
+	8 -> 9 [label="A, B"]
+	8 -> 10 [label=L]
+	9 -> 10 [label="A, B"]
+	10 -> 11 [label="A, B, L"]
+	10 -> 106 [label=I]
+	10 -> 133 [label=Y]
+	10 -> 14 [label="T, D"]
+	11 -> 12 [label="A, B, L"]
+	12 -> 13 [label="A, B, L, X, Z, U, Hil 167, G"]
+	12 -> 77 [label="АА, V, Hil 378, Hil 169"]
+	12 -> 158 [label=J]
+	12 -> 16 [label=M]
+	12 -> 14 [label=H]
+	13 -> 14 [label="A, B, X, Z"]
+	13 -> 71 [label=L]
+	13 -> 158 [label="U, Hil 167"]
+	13 -> 227 [label=G]
+	14 -> 15 [label="A, B, АА, X, Z, I, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, D, К"]
+	14 -> 107 [label=W]
+	15 -> 16 [label="A, B, L, X, Z, H"]
+	15 -> 78 [label="АА"]
+	15 -> 107 [label=I]
+	15 -> 141 [label="T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	15 -> 216 [label=D]
+	15 -> 235 [label="К"]
+	16 -> 17 [label="A, B, L, X, Z, M"]
+	16 -> 79 [label="АА, I, W, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, D, G, К"]
+	17 -> 18 [label="A, B, M"]
+	17 -> 72 [label="L, Z"]
+	17 -> 80 [label=X]
+	18 -> 19 [label="A, B, C, M, H, D"]
+	19 -> 20 [label="A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 167, H, F, D, G, К"]
+	19 -> 21 [label="Hil 378, Hil 169"]
+	20 -> 21 [label="A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 167, H, F, D, G, К"]
+	21 -> 22 [label="A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F"]
+	21 -> 217 [label="D, G, К"]
+	22 -> 23 [label="A, B, L, АА, X, Z, T, C, J, M, U, V, Hil 378, Hil 167, Hil 169, F"]
+	22 -> 108 [label="I, W, Y"]
+	22 -> 183 [label=Sin]
+	22 -> 24 [label=H]
+	23 -> 24 [label="A, L, АА, X, Z, I, W, Y, C, J, M, U, V, Hil 378, Hil 167, Hil 169, F, D, G, К"]
+	23 -> 27 [label=B]
+	23 -> 144 [label=T]
+	24 -> 25 [label="A, L, АА, X, Z, I, W, T, К"]
+	24 -> 134 [label=Y]
+	24 -> 159 [label="C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	24 -> 197 [label="H, F, D, G"]
+	25 -> 26 [label="A, X, I"]
+	25 -> 73 [label="L, АА, Z, W, К"]
+	25 -> 28 [label=Y]
+	25 -> 27 [label=T]
+	26 -> 27 [label="A, X"]
+	26 -> 28 [label=I]
+	26 -> 218 [label=D]
+	27 -> 28 [label="A, B, L, АА, X, Z, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F"]
+	28 -> 29 [label="A, B, L, АА, T, Hil 169, H, F"]
+	28 -> 87 [label="X, Z, I, W, Y, G, К"]
+	28 -> 113 [label="C, J, U, V, Sin, Hil 378, Hil 167, N, P, R"]
+	29 -> 30 [label="A, B, L, АА, T, H, F, К"]
+	29 -> 88 [label="X, Z"]
+	29 -> 110 [label="I, W"]
+	29 -> 135 [label=Y]
+	29 -> 114 [label="Hil 169"]
+	29 -> 205 [label="O, S, G"]
+	29 -> 219 [label=D]
+	30 -> 31 [label="A, B, L, АА"]
+	30 -> 111 [label="I, W"]
+	30 -> 145 [label="T, H, F"]
+	30 -> 220 [label="К"]
+	31 -> 32 [label="A, B, L, АА"]
+	31 -> 89 [label="X, Z, I, W"]
+	31 -> 33 [label=Y]
+	32 -> 33 [label="A, B, L, АА, X, Z"]
+	33 -> 34 [label="A, B, L, АА, X, Z"]
+	33 -> 35 [label="I, W, Y"]
+	33 -> 36 [label="T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, N, P, R, G"]
+	33 -> 220 [label=D]
+	34 -> 35 [label="A, B, L, АА, X, Z"]
+	35 -> 36 [label="A, B, L, АА, X, Z, D"]
+	35 -> 37 [label="I, W, Y"]
+	36 -> 37 [label="A, B, L, АА, F"]
+	36 -> 90 [label="X, Z"]
+	36 -> 147 [label="T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, O, S, G"]
+	36 -> 2 [label="N, P, R"]
+	36 -> 221 [label=D]
+	37 -> 38 [label="A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, O, S, F, G, К"]
+	38 -> 39 [label="A, B, L, АА, I, W, Y, F, D, G, К"]
+	38 -> 91 [label="X, Z"]
+	38 -> 148 [label="T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H"]
+	38 -> 42 [label=O]
+	38 -> 208 [label=S]
+	39 -> 40 [label="A, B, L, АА, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, D, G, К"]
+	40 -> 41 [label="A, B, L, АА, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F"]
+	40 -> 42 [label="I, W, Y"]
+	40 -> 206 [label=S]
+	40 -> 92 [label="D, G, К"]
+	41 -> 42 [label="A, B, L, АА, X, Z, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, G, К"]
+	42 -> 43 [label="A, B, L, I, Hil 169, H"]
+	42 -> 81 [label="АА, X, Z, W"]
+	42 -> 136 [label=Y]
+	42 -> 149 [label="T, C, J, M, U, V, Sin, Hil 378, Hil 167"]
+	42 -> 206 [label="O, F"]
+	42 -> 93 [label="D, G"]
+	42 -> 236 [label="К"]
+	43 -> 44 [label="A, B, L, I, Hil 169, H"]
+	44 -> 45 [label="A, B, L, АА, T, C, J, U, Sin, Hil 378, Hil 167, Hil 169"]
+	44 -> 93 [label="X, Z"]
+	44 -> 115 [label="I, W, Y"]
+	44 -> 169 [label=M]
+	44 -> 128 [label=V]
+	44 -> 200 [label=H]
+	45 -> 46 [label="A, B, L, АА, I, T, C, J, U, Sin, Hil 378, Hil 167, Hil 169, G, К"]
+	46 -> 47 [label="A, B, L, АА, I, W, Y, T, C, J, Sin, H, D"]
+	46 -> 175 [label=U]
+	46 -> 180 [label="V, F, G, К"]
+	46 -> 187 [label="Hil 378, Hil 167, Hil 169"]
+	47 -> 48 [label="A, АА, I, H"]
+	47 -> 67 [label="B, L, W, Y, C, J, Sin"]
+	47 -> 150 [label=T]
+	47 -> 192 [label=D]
+	48 -> 49 [label="A, АА, I, H"]
+	49 -> 50 [label="A, B, L, АА, I, W, Y, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, D"]
+	50 -> 51 [label="A, B, L, АА, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F, D, G"]
+	50 -> 117 [label="I, W, Y"]
+	51 -> 52 [label="A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, F"]
+	51 -> 223 [label="D, К"]
+	51 -> 231 [label=G]
+	52 -> 53 [label="A, B, L, АА, X, Z, I, W, Y, T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H"]
+	52 -> 171 [label=F]
+	53 -> 54 [label="A, B, L, АА, X, Z, I, W, Y, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, H"]
+	53 -> 171 [label=M]
+	54 -> 55 [label="A, B, АА, C, J, Sin, H"]
+	54 -> 74 [label="L, X, Z"]
+	54 -> 118 [label="I, W, Y"]
+	54 -> 151 [label="T, U, V, Hil 378, Hil 167, Hil 169"]
+	55 -> 56 [label="A, B, АА"]
+	55 -> 118 [label="C, J, Sin, H, F"]
+	56 -> 57 [label="A, B, L, АА, X, Z"]
+	57 -> 58 [label="A, B, L, АА, X, Z, I, W, C, F"]
+	57 -> 59 [label="T, J, M, U, V, Sin, Hil 378, Hil 169, H"]
+	58 -> 59 [label="A, B, L, АА, X, Z, I, W, Y, C, F"]
+	59 -> 60 [label="A, B, L, АА, X, Z, I, W, Y, C"]
+	59 -> 152 [label="T, M, U, V, Sin, Hil 378"]
+	59 -> 167 [label=J]
+	59 -> 189 [label="Hil 167, Hil 169, H"]
+	59 -> 61 [label=F]
+	60 -> 61 [label="A, B, L, АА, X, Z, I, W, Y, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	60 -> 2 [label=T]
+	61 -> 62 [label="A, B, L, I, C, J, U, V, Sin"]
+	61 -> 82 [label="АА, Z, W, Y, Hil 378"]
+	61 -> 97 [label="X, Hil 167, Hil 169"]
+	61 -> 201 [label=H]
+	61 -> 212 [label=F]
+	62 -> 63 [label="A, B, L, I, C, J, U, V"]
+	62 -> 2 [label=Sin]
+	63 -> 64 [label="A, B, L, АА, X, Z, I, Y, U"]
+	63 -> 65 [label="C, J, V, Hil 378, Hil 167, Hil 169"]
+	63 -> 172 [label=M]
+	63 -> 202 [label="H, F"]
+	64 -> 65 [label=A]
+	64 -> 68 [label="B, L, АА, X, Z, I, W"]
+	64 -> 138 [label="Y, U"]
+	65 -> 2 [label="A, U"]
+	65 -> 68 [label="C, J, V, Hil 378, Hil 169, H, G, К"]
+	65 -> 190 [label="Hil 167"]
+	66 -> 8 [label="B, L"]
+	67 -> 49 [label="B, L, W, Y, C, J, U, Sin, Hil 378, Hil 167"]
+	67 -> 51 [label="К"]
+	68 -> 69 [label="B, L, X, Z, C, J, V, Hil 378, Hil 169"]
+	68 -> 2 [label="АА, I, W, H, F, G"]
+	68 -> 139 [label=Y]
+	68 -> 70 [label="D, К"]
+	69 -> 70 [label="B, L, X, C, Hil 169"]
+	69 -> 2 [label="Z, J, V, Hil 378"]
+	70 -> 2 [label="B, L, X, C, Hil 169, D, К"]
+	71 -> 15 [label=L]
+	72 -> 19 [label="L, Z"]
+	73 -> 27 [label="L, АА, Z"]
+	73 -> 28 [label="W, G, К"]
+	74 -> 56 [label="L, X, Z"]
+	75 -> 76 [label="АА"]
+	76 -> 12 [label="АА"]
+	76 -> 101 [label=G]
+	77 -> 14 [label="АА"]
+	77 -> 158 [label="V, Hil 378, Hil 169"]
+	78 -> 16 [label="АА"]
+	79 -> 80 [label="АА, I, W, Y, T, J, U, V, Sin, Hil 378, Hil 167, Hil 169, F"]
+	79 -> 18 [label="C, H, D"]
+	79 -> 159 [label="N, P"]
+	79 -> 203 [label=O]
+	79 -> 19 [label="G, К"]
+	80 -> 19 [label="АА, X, I, W, Y, T, J, U, V, Sin, Hil 378, Hil 167, Hil 169, F"]
+	81 -> 44 [label="АА, X, Z, W"]
+	82 -> 63 [label="АА, Z, Y, Hil 378"]
+	82 -> 64 [label=W]
+	83 -> 84 [label="X, Z, I"]
+	83 -> 123 [label=W]
+	84 -> 85 [label="X, Z, I, H"]
+	85 -> 86 [label="X, Z"]
+	85 -> 101 [label=I]
+	85 -> 125 [label=W]
+	85 -> 195 [label=H]
+	86 -> 12 [label="X, Z"]
+	87 -> 29 [label="X, Z"]
+	87 -> 109 [label="I, W, Y, D, G, К"]
+	88 -> 31 [label="X, Z"]
+	89 -> 32 [label="X, Z"]
+	89 -> 114 [label="I, W"]
+	90 -> 37 [label="X, Z"]
+	91 -> 92 [label="X, Z"]
+	92 -> 41 [label="X, Z, G, К"]
+	92 -> 42 [label=D]
+	93 -> 94 [label="X, Z"]
+	93 -> 207 [label=O]
+	93 -> 222 [label=D]
+	93 -> 229 [label=G]
+	94 -> 95 [label=X]
+	94 -> 98 [label=Z]
+	95 -> 96 [label=X]
+	95 -> 99 [label=Z]
+	96 -> 51 [label=X]
+	97 -> 63 [label="X, Hil 167, Hil 169"]
+	98 -> 95 [label=Z]
+	99 -> 51 [label=Z]
+	100 -> 83 [label=I]
+	101 -> 102 [label=I]
+	101 -> 131 [label=Y]
+	101 -> 226 [label=G]
+	102 -> 103 [label=I]
+	103 -> 104 [label=I]
+	103 -> 105 [label="T, C, Sin"]
+	103 -> 177 [label=V]
+	103 -> 178 [label="К"]
+	104 -> 105 [label=I]
+	105 -> 10 [label="I, T"]
+	105 -> 157 [label=C]
+	105 -> 106 [label="Sin, К"]
+	106 -> 14 [label="I, W"]
+	106 -> 158 [label=Sin]
+	106 -> 234 [label="К"]
+	107 -> 16 [label="I, W"]
+	108 -> 23 [label="I, W, Y"]
+	109 -> 29 [label="I, W, Y, D, G, К"]
+	109 -> 168 [label="M, O, S"]
+	110 -> 30 [label="I, W"]
+	111 -> 112 [label=I]
+	111 -> 113 [label="W, Y"]
+	112 -> 113 [label=I]
+	113 -> 31 [label="I, W, Y"]
+	113 -> 114 [label="T, C, J, U, V, Sin, Hil 378, Hil 167, N, P, R, G"]
+	113 -> 199 [label="H, O, S, F"]
+	114 -> 33 [label="I, W, T, C, J, U, V, Sin, Hil 378, Hil 167, Hil 169, N, P, R, D, G"]
+	115 -> 116 [label="I, W, Y"]
+	115 -> 93 [label=O]
+	116 -> 45 [label=I]
+	116 -> 128 [label="W, Y"]
+	117 -> 51 [label="I, W, Y"]
+	118 -> 57 [label="I, W, T, C, J, M, U, V, Sin, Hil 378, Hil 169, H, F"]
+	118 -> 137 [label=Y]
+	118 -> 188 [label="Hil 167"]
+	119 -> 120 [label="W, Y"]
+	119 -> 129 [label=G]
+	120 -> 121 [label="W, Y"]
+	120 -> 213 [label=D]
+	121 -> 122 [label=W]
+	121 -> 129 [label=Y]
+	122 -> 83 [label=W]
+	123 -> 124 [label=W]
+	124 -> 85 [label=W]
+	124 -> 101 [label=Y]
+	125 -> 126 [label=W]
+	126 -> 127 [label=W]
+	126 -> 196 [label=H]
+	127 -> 106 [label=W]
+	128 -> 46 [label="W, Y, V"]
+	129 -> 130 [label=Y]
+	129 -> 225 [label=G]
+	130 -> 124 [label=Y]
+	131 -> 132 [label=Y]
+	132 -> 10 [label=Y]
+	132 -> 215 [label=D]
+	133 -> 79 [label=Y]
+	134 -> 25 [label=Y]
+	135 -> 111 [label=Y]
+	136 -> 44 [label=Y]
+	137 -> 58 [label=Y]
+	138 -> 68 [label=Y]
+	138 -> 65 [label=U]
+	139 -> 2 [label=Y]
+	140 -> 103 [label=T]
+	141 -> 142 [label="T, C, U, V, Hil 378, Hil 167, Hil 169"]
+	141 -> 166 [label=J]
+	141 -> 182 [label=Sin]
+	142 -> 143 [label="T, C, U, V, Hil 167, Hil 169"]
+	142 -> 186 [label="Hil 378"]
+	143 -> 16 [label="T, C, J, U, V, Hil 167, Hil 169"]
+	144 -> 24 [label=T]
+	145 -> 146 [label=T]
+	145 -> 113 [label="H, O, S, F, G"]
+	146 -> 113 [label=T]
+	147 -> 37 [label="T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H, O, S, G, К"]
+	148 -> 39 [label="T, C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169, H"]
+	149 -> 44 [label="T, C, J, M, U, V, Sin, Hil 378, Hil 167"]
+	150 -> 49 [label=T]
+	151 -> 118 [label="T, M, U, V, Hil 378, Hil 167"]
+	151 -> 193 [label="Hil 169"]
+	152 -> 60 [label="T, U, V, Sin, Hil 378"]
+	152 -> 63 [label=M]
+	153 -> 4 [label=C]
+	154 -> 155 [label=C]
+	155 -> 156 [label=C]
+	155 -> 214 [label=D]
+	156 -> 103 [label=C]
+	157 -> 158 [label=C]
+	158 -> 14 [label="C, J, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	159 -> 160 [label="C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	159 -> 28 [label="N, P, R"]
+	160 -> 161 [label="C, J, M, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	161 -> 27 [label="C, J, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	161 -> 109 [label=M]
+	161 -> 204 [label="O, S"]
+	162 -> 163 [label="J, M, U, V, Sin, Hil 169"]
+	163 -> 4 [label="J, M, U, V, Sin, Hil 378, Hil 167, Hil 169"]
+	164 -> 165 [label="J, M, U, V, Sin"]
+	164 -> 185 [label="Hil 378, Hil 167, Hil 169"]
+	165 -> 12 [label="J, M, U"]
+	165 -> 103 [label="V, Sin"]
+	166 -> 143 [label=J]
+	167 -> 60 [label=J]
+	168 -> 147 [label=M]
+	168 -> 29 [label="O, S"]
+	169 -> 170 [label=M]
+	169 -> 46 [label=F]
+	170 -> 51 [label=M]
+	171 -> 151 [label=M]
+	171 -> 55 [label=F]
+	172 -> 2 [label=M]
+	173 -> 174 [label="U, V, Hil 378, Hil 167"]
+	173 -> 191 [label="Hil 169"]
+	174 -> 162 [label="U, V"]
+	174 -> 184 [label="Hil 378, Hil 167"]
+	175 -> 67 [label=U]
+	176 -> 173 [label="V, Hil 378, Hil 167, Hil 169"]
+	177 -> 178 [label=V]
+	178 -> 179 [label=V]
+	178 -> 105 [label="К"]
+	179 -> 12 [label=V]
+	180 -> 181 [label="V, G"]
+	180 -> 211 [label=F]
+	180 -> 67 [label="К"]
+	181 -> 49 [label=V]
+	181 -> 230 [label=G]
+	182 -> 16 [label=Sin]
+	183 -> 24 [label=Sin]
+	184 -> 163 [label="Hil 378, Hil 167"]
+	185 -> 12 [label="Hil 378, Hil 167, Hil 169"]
+	186 -> 16 [label="Hil 378"]
+	187 -> 67 [label="Hil 378, Hil 167"]
+	187 -> 192 [label="Hil 169"]
+	188 -> 59 [label="Hil 167"]
+	189 -> 60 [label="Hil 167, Hil 169"]
+	189 -> 61 [label=H]
+	190 -> 2 [label="Hil 167"]
+	191 -> 162 [label="Hil 169"]
+	192 -> 49 [label="Hil 169, D"]
+	193 -> 118 [label="Hil 169"]
+	194 -> 84 [label=H]
+	195 -> 126 [label=H]
+	196 -> 12 [label=H]
+	197 -> 198 [label=H]
+	197 -> 161 [label="O, S"]
+	197 -> 209 [label=F]
+	197 -> 26 [label=D]
+	197 -> 73 [label=G]
+	198 -> 27 [label=H]
+	199 -> 36 [label="H, O, S, F"]
+	200 -> 46 [label=H]
+	201 -> 63 [label=H]
+	202 -> 65 [label=H]
+	202 -> 68 [label=F]
+	203 -> 197 [label="O, S"]
+	204 -> 109 [label="O, S"]
+	205 -> 145 [label="O, S, G"]
+	206 -> 115 [label=O]
+	206 -> 207 [label=S]
+	206 -> 210 [label=F]
+	207 -> 2 [label="O, S"]
+	208 -> 40 [label=S]
+	209 -> 27 [label=F]
+	210 -> 169 [label=F]
+	211 -> 49 [label=F]
+	212 -> 63 [label=F]
+	213 -> 155 [label=D]
+	214 -> 132 [label=D]
+	215 -> 10 [label=D]
+	216 -> 16 [label="D, G"]
+	217 -> 23 [label=D]
+	217 -> 228 [label="G, К"]
+	218 -> 87 [label=D]
+	219 -> 114 [label=D]
+	220 -> 35 [label=D]
+	220 -> 147 [label="К"]
+	221 -> 38 [label=D]
+	222 -> 46 [label=D]
+	223 -> 224 [label="D, К"]
+	224 -> 68 [label=D]
+	224 -> 65 [label="G, К"]
+	225 -> 76 [label=G]
+	226 -> 12 [label=G]
+	227 -> 216 [label=G]
+	228 -> 23 [label="G, К"]
+	229 -> 45 [label="G, К"]
+	230 -> 50 [label=G]
+	231 -> 224 [label=G]
+	232 -> 5 [label="К"]
+	233 -> 103 [label="К"]
+	234 -> 14 [label="К"]
+	235 -> 16 [label="К"]
+	236 -> 229 [label="К"]
+	{
+		graph [rank=same]
+		1
+	}
+	{
+		graph [rank=same]
+		3
+		75
+		100
+		119
+		140
+		176
+		194
+		232
+	}
+	{
+		graph [rank=same]
+		153
+		120
+		173
+	}
+	{
+		graph [rank=same]
+		121
+		213
+		174
+		191
+	}
+	{
+		graph [rank=same]
+		122
+		129
+		184
+		162
+	}
+	{
+		graph [rank=same]
+		83
+		130
+		225
+		163
+	}
+	{
+		graph [rank=same]
+		84
+		123
+		76
+		4
+	}
+	{
+		graph [rank=same]
+		124
+		5
+		154
+		164
+	}
+	{
+		graph [rank=same]
+		85
+		6
+		233
+		155
+		165
+		185
+	}
+	{
+		graph [rank=same]
+		86
+		101
+		125
+		195
+		7
+		66
+		156
+		214
+	}
+	{
+		graph [rank=same]
+		102
+		131
+		226
+		126
+		8
+	}
+	{
+		graph [rank=same]
+		103
+		132
+		127
+		196
+		9
+	}
+	{
+		graph [rank=same]
+		104
+		177
+		215
+	}
+	{
+		graph [rank=same]
+		178
+	}
+	{
+		graph [rank=same]
+		179
+		105
+	}
+	{
+		graph [rank=same]
+		10
+		157
+	}
+	{
+		graph [rank=same]
+		11
+		106
+		133
+	}
+	{
+		graph [rank=same]
+		12
+		234
+	}
+	{
+		graph [rank=same]
+		13
+		77
+	}
+	{
+		graph [rank=same]
+		71
+		227
+		158
+	}
+	{
+		graph [rank=same]
+		14
+	}
+	{
+		graph [rank=same]
+		15
+	}
+	{
+		graph [rank=same]
+		78
+		107
+		141
+		216
+		235
+	}
+	{
+		graph [rank=same]
+		142
+		166
+		182
+	}
+	{
+		graph [rank=same]
+		186
+		143
+	}
+	{
+		graph [rank=same]
+		16
+	}
+	{
+		graph [rank=same]
+		17
+		79
+	}
+	{
+		graph [rank=same]
+		72
+		80
+		18
+		203
+	}
+	{
+		graph [rank=same]
+		19
+	}
+	{
+		graph [rank=same]
+		20
+	}
+	{
+		graph [rank=same]
+		21
+	}
+	{
+		graph [rank=same]
+		22
+		217
+	}
+	{
+		graph [rank=same]
+		108
+		183
+		228
+	}
+	{
+		graph [rank=same]
+		23
+	}
+	{
+		graph [rank=same]
+		144
+	}
+	{
+		graph [rank=same]
+		24
+	}
+	{
+		graph [rank=same]
+		134
+		159
+		197
+	}
+	{
+		graph [rank=same]
+		25
+		160
+		198
+		209
+	}
+	{
+		graph [rank=same]
+		26
+		73
+		161
+	}
+	{
+		graph [rank=same]
+		218
+		27
+		204
+	}
+	{
+		graph [rank=same]
+		28
+	}
+	{
+		graph [rank=same]
+		87
+	}
+	{
+		graph [rank=same]
+		109
+	}
+	{
+		graph [rank=same]
+		168
+	}
+	{
+		graph [rank=same]
+		29
+	}
+	{
+		graph [rank=same]
+		88
+		110
+		135
+		205
+		219
+	}
+	{
+		graph [rank=same]
+		30
+	}
+	{
+		graph [rank=same]
+		111
+		145
+	}
+	{
+		graph [rank=same]
+		112
+		146
+	}
+	{
+		graph [rank=same]
+		113
+	}
+	{
+		graph [rank=same]
+		31
+		199
+	}
+	{
+		graph [rank=same]
+		89
+	}
+	{
+		graph [rank=same]
+		32
+		114
+	}
+	{
+		graph [rank=same]
+		33
+	}
+	{
+		graph [rank=same]
+		34
+		220
+	}
+	{
+		graph [rank=same]
+		35
+	}
+	{
+		graph [rank=same]
+		36
+	}
+	{
+		graph [rank=same]
+		90
+		147
+		221
+	}
+	{
+		graph [rank=same]
+		37
+	}
+	{
+		graph [rank=same]
+		38
+	}
+	{
+		graph [rank=same]
+		91
+		148
+		208
+	}
+	{
+		graph [rank=same]
+		39
+	}
+	{
+		graph [rank=same]
+		40
+	}
+	{
+		graph [rank=same]
+		92
+	}
+	{
+		graph [rank=same]
+		41
+	}
+	{
+		graph [rank=same]
+		42
+	}
+	{
+		graph [rank=same]
+		43
+		81
+		136
+		149
+		206
+		236
+	}
+	{
+		graph [rank=same]
+		44
+		210
+	}
+	{
+		graph [rank=same]
+		115
+		200
+		169
+	}
+	{
+		graph [rank=same]
+		116
+		93
+		170
+	}
+	{
+		graph [rank=same]
+		128
+		94
+		207
+		222
+		229
+	}
+	{
+		graph [rank=same]
+		98
+		45
+	}
+	{
+		graph [rank=same]
+		95
+		46
+	}
+	{
+		graph [rank=same]
+		96
+		99
+		47
+		175
+		180
+		187
+	}
+	{
+		graph [rank=same]
+		48
+		150
+		181
+		211
+		67
+		192
+	}
+	{
+		graph [rank=same]
+		230
+		49
+	}
+	{
+		graph [rank=same]
+		50
+	}
+	{
+		graph [rank=same]
+		117
+	}
+	{
+		graph [rank=same]
+		51
+	}
+	{
+		graph [rank=same]
+		52
+		223
+		231
+	}
+	{
+		graph [rank=same]
+		53
+		224
+	}
+	{
+		graph [rank=same]
+		54
+		171
+	}
+	{
+		graph [rank=same]
+		74
+		151
+		55
+	}
+	{
+		graph [rank=same]
+		193
+		56
+	}
+	{
+		graph [rank=same]
+		118
+	}
+	{
+		graph [rank=same]
+		57
+		137
+		188
+	}
+	{
+		graph [rank=same]
+		58
+	}
+	{
+		graph [rank=same]
+		59
+	}
+	{
+		graph [rank=same]
+		152
+		167
+		189
+	}
+	{
+		graph [rank=same]
+		60
+	}
+	{
+		graph [rank=same]
+		61
+	}
+	{
+		graph [rank=same]
+		62
+		82
+		97
+		201
+		212
+	}
+	{
+		graph [rank=same]
+		63
+	}
+	{
+		graph [rank=same]
+		64
+		172
+		202
+	}
+	{
+		graph [rank=same]
+		138
+	}
+	{
+		graph [rank=same]
+		65
+	}
+	{
+		graph [rank=same]
+		68
+		190
+	}
+	{
+		graph [rank=same]
+		69
+		139
+	}
+	{
+		graph [rank=same]
+		70
+	}
+	{
+		graph [rank=same]
+		2
+	}
+}

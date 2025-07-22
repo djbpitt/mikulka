@@ -1,0 +1,7 @@
+start = letters
+letters = element letters { letter+ }
+letter = element letter { sup, base }
+sup = element sup { u, name, text }
+base = element base { u, name, text }
+name = attribute name { text }
+u = attribute u { text }
